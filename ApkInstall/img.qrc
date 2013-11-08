@@ -1,0 +1,37 @@
+<RCC>
+    <qresource prefix="/">
+        <file>Image/pop/pop_bottom_left.png</file>
+        <file>Image/pop/pop_bottom_mid.png</file>
+        <file>Image/pop/pop_bottom_right.png</file>
+        <file>Image/pop/pop_devisionsline.png</file>
+        <file>Image/pop/pop_left_mid.png</file>
+        <file>Image/pop/pop_right_mid.png</file>
+        <file>Image/pop/pop_top_left.png</file>
+        <file>Image/pop/pop_top_mid.png</file>
+        <file>Image/pop/pop_top_right.png</file>
+        <file>Image/pop/backup_title_bg.png</file>
+        <file>Image/pop/backup_btnclose_h.png</file>
+        <file>Image/pop/backup_btnclose_n.png</file>
+        <file>Image/pop/backup_btnclose_p.png</file>
+        <file>Image/pop/img_apk_def_b.png</file>
+        <file>Image/pop/task_pauseall_h.png</file>
+        <file>Image/pop/task_pauseall_n.png</file>
+        <file>Image/pop/task_pauseall_p.png</file>
+        <file>Image/line_n.png</file>
+        <file>Image/line_p.png</file>
+        <file>Image/middleShadow.png</file>
+        <file>Image/permission_PackDown.png</file>
+        <file>Image/permission_packUp.png</file>
+        <file>Image/limited_danger.png</file>
+        <file>Image/task_oprationmentions_f.png</file>
+        <file>Image/task_oprationmentions_p.png</file>
+        <file>Image/task_oprationmentions_s.png</file>
+        <file>Image/loading.gif</file>
+        <file>Image/logo.png</file>
+        <file>Image/logo128.ico</file>
+        <file>Image/logo128.png</file>
+        <file>Image/dtuandui.png</file>
+        <file>Image/pop/apklogo.png</file>
+        <file>Image/pop/img_apk.png</file>
+    </qresource>
+</RCC>
